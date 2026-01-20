@@ -7,11 +7,14 @@
 
 ## 👤 Author Information
 
-* **Name:** Ilham
-* **Student ID (NIM):** 230202767
+* **Name:** Anjani Rahmawati
+* **Student ID (NIM):** 230202734
 * **Class:** 5IKRB
 * **Institution:** Universitas Putra Bangsa
 * **Subject:** Cryptography
+* **Kontribusi:** Flowcard alur sistem 
+* **Kelompok:** Kelompok 1
+
 
 ---
 
